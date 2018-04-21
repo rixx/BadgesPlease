@@ -1,0 +1,25 @@
+{
+  "name": "badgesplease",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-badge.js",
+  "scripts": {
+    "start": "node generate-badge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rixx/BadgesPlease.git"
+  },
+  "author": "rixx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rixx/BadgesPlease/issues"
+  },
+  "homepage": "https://github.com/rixx/BadgesPlease#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "lodash": "^4.17.5",
+    "mustache": "^2.3.0",
+    "text-to-svg": "^3.1.3"
+  }
+}

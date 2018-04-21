@@ -1,0 +1,5 @@
+node_modules/
+output/
+*.ttf
+*.otf
+badge_data.js
